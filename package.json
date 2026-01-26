@@ -1,0 +1,15 @@
+{
+  "name": "e2e.spec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e2e.spec.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.10"
+  }
+}
