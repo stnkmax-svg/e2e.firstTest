@@ -27,7 +27,7 @@ const updatedBookingData = {
 let bookingId;
 let authToken;
 
-test.describe('CRUD for booking', () => {
+test.describe('CRUD for booking @api', () => {
   
   test('POST', async ({ request }) => {
     const response = await request.post(`${BASE_URL}/booking`, {
